@@ -38,7 +38,6 @@
                                 C
                             </div>
                             <small>
-                                <div>379 kB</div>
                                 <div>27.45%</div>
                             </small>
                         </div>
@@ -50,7 +49,6 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>274 kB</div>
                                 <div>19.83%</div>
                             </small>
                         </div>
@@ -62,7 +60,6 @@
                                 Java
                             </div>
                             <small>
-                                <div>143 kB</div>
                                 <div>10.39%</div>
                             </small>
                         </div>
@@ -76,7 +73,6 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>303 kB</div>
                                 <div>21.96%</div>
                             </small>
                         </div>
@@ -88,7 +84,6 @@
                                 Python
                             </div>
                             <small>
-                                <div>166 kB</div>
                                 <div>12.02%</div>
                             </small>
                         </div>
@@ -100,7 +95,6 @@
                                 Go
                             </div>
                             <small>
-                                <div>115 kB</div>
                                 <div>8.35%</div>
                             </small>
                         </div>
